@@ -92,7 +92,7 @@ public class Werkervaring {
                 case 2:
                     System.out.println("-----------------------------------------------------------"
                             + newLine
-                            + "Doei!"
+                            + "Going back"
                             + newLine
                             + "-----------------------------------------------------------");
                     exit = true;
@@ -106,7 +106,7 @@ public class Werkervaring {
         boolean exit = false;
         do {
             System.out.println("1: Uitleg");
-            System.out.println("2: Wegwezen!");
+            System.out.println("2: Terug");
             switch (workScanner.nextInt()) {
                 case 1:
                     System.out.println("-----------------------------------------------------------"
@@ -122,7 +122,7 @@ public class Werkervaring {
                 case 2:
                     System.out.println("-----------------------------------------------------------"
                             + newLine
-                            + "Doei!"
+                            + "Going back"
                             + newLine
                             + "-----------------------------------------------------------");
                     exit = true;

@@ -32,36 +32,24 @@ public class MichaelWilson {
     }
 
     public void gegevens() {
-        System.out.println("Naam:                    Michael Antonius Quintus Wilson"
-                + newLine
-                + "Geboortedatum:           15-12-1988"
-                + newLine
-                + "Woonplaats:              Noordwijk"
-                + newLine
-                + "Adres:                   Kerkstraat 65"
-                + newLine
-                + "Postcode:                2201 KL"
-                + newLine
-                + "Email:                   michaelwilson2211@gmail.com"
-                + newLine
-                + "Telefoonnummer           +31 624783980 "
-                + newLine
-                + "Rijbewijs:               B"
-                + newLine
-                + "LinkedIn:                https://www.linkedin.com/in/michael-wilson-614a1220a/"
-                + newLine
+        System.out.println("Naam:                    Michael Antonius Quintus Wilson"                        + newLine
+                + "Geboortedatum:           15-12-1988"                                                      + newLine
+                + "Woonplaats:              Noordwijk"                                                       + newLine
+                + "Adres:                   Kerkstraat 65"                                                   + newLine
+                + "Postcode:                2201 KL"                                                         + newLine
+                + "Email:                   michaelwilson2211@gmail.com"                                     + newLine
+                + "Telefoonnummer           +31 624783980 "                                                  + newLine
+                + "Rijbewijs:               B"                                                               + newLine
+                + "LinkedIn:                https://www.linkedin.com/in/michael-wilson-614a1220a/"           + newLine
                 + "Github:                  https://github.com/Michael-Wilson88 ");
     }
 
     public void hobbies() {
-        System.out.println( "Muziekfanaat"
-                + newLine
-                + "Gitaar en harmonica"
-                + newLine
-                + "Snowboarden"
-                + newLine
-                + "Mountainbiken"
-                + newLine
+        System.out.println( "Muziekfanaat"                      + newLine
+                + "Gitaar en harmonica"                         + newLine
+                + "Snowboarden"                                 + newLine
+                + "Mountainbiken"                               + newLine
+                + "Lezen"                                       + newLine
                 + "Gamen- Rpg's als Dark Souls en Diablo");
     }
 

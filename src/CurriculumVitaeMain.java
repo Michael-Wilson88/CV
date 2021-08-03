@@ -31,9 +31,9 @@ public class CurriculumVitaeMain {
                                 + "Persona extraordinaria!"                                                 + newLine
                                 + "1: Waarom wil ik de ICT in?"                                             + newLine
                                 + "2: Waarom dit cv?"                                                       + newLine
-                                + "3: Persoonsgegevens"                                                + newLine
+                                + "3: Persoonsgegevens"                                                     + newLine
                                 + "4: Hobbies en interesses"                                                + newLine
-                                + "5: Exit"                                        + newLine
+                                + "5: Exit"                                                                 + newLine
                                 + "-----------------------------------------------------------");
                         switch (cvScanner.nextInt()){
                             case 1:
@@ -129,6 +129,6 @@ public class CurriculumVitaeMain {
                     exit = true;
                     break;
             }
-        }while (!exit);
+        } while (!exit);
     }
 }
