@@ -1,4 +1,6 @@
 # CV
-My interactive CV
-Nog niet klaar
-Gebruik je compiler
+My interactive CV;
+
+Gebruik je compiler;
+
+Can be translated to English on request;
