@@ -3,8 +3,6 @@ import java.util.Scanner;
 public class CurriculumVitaeMain {
     public static void main(String[] args) {
 
-
-
         boolean exit = false;
 
         MichaelWilson ditBenIk = new MichaelWilson();
@@ -28,7 +26,7 @@ public class CurriculumVitaeMain {
                     do {
                         System.out.println("-----------------------------------------------------------"    + newLine
                                 + "Michael Wilson"                                                          + newLine
-                                + "Persona extraordinaria!"                                                 + newLine
+                                + "Programmeur in spé"                                                 + newLine
                                 + "1: Waarom wil ik de ICT in?"                                             + newLine
                                 + "2: Waarom dit cv?"                                                       + newLine
                                 + "3: Persoonsgegevens"                                                     + newLine
@@ -104,7 +102,8 @@ public class CurriculumVitaeMain {
                                 + "2: Kitchen skills"                                                        + newLine
                                 + "3: Snowboarding skills"                                                   + newLine
                                 + "4: Talen "                                                                + newLine
-                                + "5: Exit");
+                                + "5: Exit"                                                                  + newLine
+                                + "-----------------------------------------------------------");
                         switch (cvScanner.nextInt()) {
                             case 1:
                                 michaelSkills.programmingSkills();

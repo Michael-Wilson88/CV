@@ -2,9 +2,6 @@ public class MichaelWilson {
 
     String newLine = System.lineSeparator();
 
-    public void whoAmI() {
-        System.out.println("Mijn naam is Michael Wilson ");
-    }
     public void whyThisLineOfWork() {
         System.out.println("Ik hou van computers."
                         + newLine
@@ -18,8 +15,7 @@ public class MichaelWilson {
                         + newLine
                         + "Omdat de hele horeca stil stond door de Corona crisis en daardoor mijn contract niet verlengd werd, was dit het perfecte moment om te switchen. "
                         + newLine
-                        + "Ik kan met volle overtuiging zeggen dat dít wel de professie is die ik de rest van m'n leven wil doen."
-        );
+                        + "Ik kan met volle overtuiging zeggen dat dít wel de professie is die ik de rest van m'n leven wil doen.");
     }
 
     public void whyThisCV() {

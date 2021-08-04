@@ -10,7 +10,7 @@ public class Werkervaring {
         boolean exit = false;
         do {
             System.out.println("1: Uitleg");
-            System.out.println("3: Terug");
+            System.out.println("2: Terug");
             switch (workScanner.nextInt()) {
                 case 1:
                     System.out.println("-----------------------------------------------------------"

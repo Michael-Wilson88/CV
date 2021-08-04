@@ -4,7 +4,6 @@ public class Skills {
 
     String newline = System.lineSeparator();
 
-
     public void programmingSkills() {
 
         System.out.println("-----------------------------------------------------------" + newline
@@ -26,14 +25,14 @@ public class Skills {
 
         System.out.println("-----------------------------------------------------------" + newline
                 + "Landes snowboardLehrer"                                               + newline
-                + "Anwärter snowboardlehrer"                                             + newline);
+                + "Anwärter snowboardlehrer");
     }
 
     public void languageSkills() {
 
         System.out.println("-----------------------------------------------------------" + newline
-                + "Nederlands: moedertaal"                                               + newline
+                + "Nederlands: Moedertaal"                                               + newline
                 + "Engels: Uitstekend"                                                   + newline
-                + "Duits: goed in spreken, redelijk in geschrift, goed in lezen.");
+                + "Duits: Goed in spreken, redelijk in geschrift, goed in lezen.");
     }
 }
