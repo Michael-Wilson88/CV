@@ -20,7 +20,7 @@ public class MichaelWilson {
 
     public void whyThisCV() {
         System.out.println(
-                         "Ik heb deze interactieve CV gemaakt, niet alleen om mezelf te onderscheiden, maar ook om te laten zien dat ik programmeren echt leuk vind!"
+                         "Ik heb dit interactieve CV gemaakt, niet alleen om mezelf te onderscheiden, maar ook om te laten zien dat ik programmeren echt leuk vind!"
                         + newLine
                         + "Telkens ben ik bezig om mezelf te verbeteren, om nieuwe technieken toe te passen en om alsmaar meer kennis te vergaren "
                         + newLine
@@ -46,7 +46,7 @@ public class MichaelWilson {
                 + "Snowboarden"                                 + newLine
                 + "Mountainbiken"                               + newLine
                 + "Lezen"                                       + newLine
-                + "Gamen- Rpg's als Dark Souls en Diablo");
+                + "Gamen");
     }
 
 }
